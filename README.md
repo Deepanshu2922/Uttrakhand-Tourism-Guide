@@ -42,3 +42,9 @@ src/
 - Implement real authentication on the Login page
 - Build out the AI travel recommendation engine
 - Add the booking inquiry form and submission flow
+## Components
+
+- Navbar
+- Hero
+- Card
+- Footer
