@@ -48,3 +48,11 @@ src/
 - Hero
 - Card
 - Footer
+## Routes
+
+- /
+- /about
+- /dashboard
+- /login
+
+Responsive design supported for mobile, tablet, and desktop.
