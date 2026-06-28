@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Environment – contains secrets, never commit
+.env
+
+# Runtime logs
+logs/
+*.log
+npm-debug.log*
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
